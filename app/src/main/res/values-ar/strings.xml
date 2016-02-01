@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">عقارات عمان</string>
+    <string name="title_activity_home">الصفحة الرئيسية</string>
+    <string name="action_settings">الإعدادات</string>
+    <string name="location">المكان</string>
+    <string name="From">من</string>
+    <string name="To">الى</string>
+    <string name="title_activity_login">التسجيل</string>
+    <string name="search">بحث</string>
+    <string name="propertyType">نوع الملكية</string>
+    <string name="Shops">محلات</string>
+    <string name="NoOfRooms">عدد الغرف</string>
+    <string name="Land">أرض</string>
+    <string name="House">منزل</string>
+    <string name="Hostel">سكن</string>
+    <string name="Flat">شقة</string>
+    <string name="price">السعر</string>
+    <string name="buy">بيع</string>
+    <string name="project">مشروع</string>
+    <string name="rent">إستئجار</string>
+    <string name="other">أخرى +</string>
+    <string name="Password">كلمة السر</string>
+    <string name="email">الإيميل</string>
+    <string name="newProperty">عقار جديد</string>
+    <string name="new_user">مستخدم جديد</string>
+    <string name="existing_user">تسجيل الدخول</string>
+    <string name="PropertyDescription" >وصف العقا</string>
+    <string name="Terms_conditions">الآحكام و الشروط</string>
+    <string name="Price" >السعر</string>
+    <string name="Location" >الموقع</string>
+    <string name="PropertyAge" >عمر العقار</string>
+    <string name="ContactOwner" >تواصل مع المالك</string>
+    <string name="OwnerName" >اسم المالك</string>
+    <string name="Area">المساحه</string>
+    <string name="ForgotPass">هل نسيت كلمة المور</string>
+    <string name="Login">تسجيل الدخول</string>
+    <string name="PhoneNumber">رقم الهاتف</string>
+    <string name="signup">حساب جديد</string>
+
+
+</resources>
